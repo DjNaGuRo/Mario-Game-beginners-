@@ -14,7 +14,7 @@ public class MainFrame extends JFrame{
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		this.setAlwaysOnTop(true); 
 		this.setResizable(false);
-		this.setSize(700, 360);
+		this.setSize(800, 360);
 		this.setLocationRelativeTo(null);
 		
 		scene = new Scene();
